@@ -1,1 +1,1 @@
-# TNSDC-Generative-AI-For-Engereening
+# TNSDC-Generative-AI-For-Engireening
